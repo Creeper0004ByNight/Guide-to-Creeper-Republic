@@ -1,15 +1,15 @@
 # Index
 
-- [Constitution of Creeper Republic](https://github.com/Creeper0004/Constitution-of-Creeper-Republic/new/master#constitution-of-creeper-republic)
-  - [Article 1.](https://github.com/Creeper0004/Constitution-of-Creeper-Republic/master#article-1) - The Emperor
-  - [Article 2.](https://github.com/Creeper0004/Constitution-of-Creeper-Republic/master#article-2) - Rights and Duties of People
-  - [Article 3.](https://github.com/Creeper0004/Constitution-of-Creeper-Republic/master#article-3) - The Diet
-  - [Article 4.](https://github.com/Creeper0004/Constitution-of-Creeper-Republic/master#article-4) - The Cabinet
-  - [Article 5.](https://github.com/Creeper0004/Constitution-of-Creeper-Republic/master#article-5) - Judiciary
-  - [Article 6.](https://github.com/Creeper0004/Constitution-of-Creeper-Republic/master#article-6) - Finances
-  - [Article 7.](https://github.com/Creeper0004/Constitution-of-Creeper-Republic/master#article-7) - Ammendments
-  - [Article 8.](https://github.com/Creeper0004/Constitution-of-Creeper-Republic/master#article-8) - Supreme Law
-  - [Article 9.](https://github.com/Creeper0004/Constitution-of-Creeper-Republic/master#article-9) - Supplementary Provisions
+- [Constitution of Creeper Republic](https://github.com/Creeper0004/Constitution-of-Creeper-Republic#constitution-of-creeper-republic)
+  - [Article 1.](https://github.com/Creeper0004/Constitution-of-Creeper-Republic#article-1) - The Emperor
+  - [Article 2.](https://github.com/Creeper0004/Constitution-of-Creeper-Republic#article-2) - Rights and Duties of People
+  - [Article 3.](https://github.com/Creeper0004/Constitution-of-Creeper-Republic#article-3) - The Diet
+  - [Article 4.](https://github.com/Creeper0004/Constitution-of-Creeper-Republic#article-4) - The Cabinet
+  - [Article 5.](https://github.com/Creeper0004/Constitution-of-Creeper-Republic#article-5) - Judiciary
+  - [Article 6.](https://github.com/Creeper0004/Constitution-of-Creeper-Republicarticle-6) - Finances
+  - [Article 7.](https://github.com/Creeper0004/Constitution-of-Creeper-Republic#article-7) - Ammendments
+  - [Article 8.](https://github.com/Creeper0004/Constitution-of-Creeper-Republic#article-8) - Supreme Law
+  - [Article 9.](https://github.com/Creeper0004/Constitution-of-Creeper-Republic#article-9) - Supplementary Provisions
 
 # Constitution of Creeper Republic
 We, the people of Creeper Republic, acting through our duly elected representatives in the National Diet, determined that we shall secure for ourselves and our posterity the fruits of peaceful cooperation with all nations and the blessings of liberty throughout this land, and resolved that never again shall we be visited with the horrors of war through the action of government, do proclaim that sovereign power resides with the people and do firmly establish this Constitution. Government is a sacred trust of the people, the authority for which is derived from the people, the powers of which are exercised by the representatives of the people, and the benefits of which are enjoyed by the people. This is a universal principle of mankind upon which this Constitution is founded. We reject and revoke all constitutions, laws, ordinances, and rescripts in conflict herewith.
