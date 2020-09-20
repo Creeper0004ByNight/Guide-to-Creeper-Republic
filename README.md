@@ -10,3 +10,6 @@
   - [Article 7.](https://github.com/Creeper0004/Constitution-of-Creeper-Republic/blob/master/Constitution.md#article-7) - Ammendments
   - [Article 8.](https://github.com/Creeper0004/Constitution-of-Creeper-Republic/blob/master/Constitution.md#article-8) - Supreme Law
   - [Article 9.](https://github.com/Creeper0004/Constitution-of-Creeper-Republic/blob/master/Constitution.md#article-9) - Supplementary Provisions
+
+- [Subsidies](https://github.com/Creeper0004/Constitution-of-Creeper-Republic/blob/master/Initiatives.md#subsidies)
+- [Grants](https://github.com/Creeper0004/Constitution-of-Creeper-Republic/blob/master/Initiatives.md#grants)
