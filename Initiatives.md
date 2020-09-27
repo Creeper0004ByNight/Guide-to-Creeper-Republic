@@ -1,9 +1,11 @@
+Sister company - alt account.
+
 # Subsidies
 
 ### New Corporation Subsidie
   Rewards:
   - -1% loan interest or less, so that the interest is 0%. 
-  - +20-40% increase of the sale price when selling to the government.
+  - +20 to 40% increase of the sale price when selling to the government.
 
   Conditions:
   - The Corporation must be, either;
@@ -18,5 +20,5 @@
   - Compensation for the price of one logistics center upon construction.
 
   Conditions:
-  - Company must have a networth of less than $1,500,000,000.
+  - Company must have a networth of less than $2,000,000,000.
   - Cannot be a sister company.
