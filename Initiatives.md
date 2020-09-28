@@ -1,4 +1,5 @@
-# Loans
+# Banking
+## Loans
 
   Ammount | Interest | Minimum Networth (in millions) | Available?
   ------- | -------- | ------------------------------ | ----------
@@ -8,8 +9,7 @@
   $100m-500m | 10% | 2,000 | Citizens only
   500m-1b| 20% | 5,000 | Unvailable
   
-### Interest
-  The total accumulated amount to repay is given by this formular:
+  The total accumulated interest plus loan is given by this formular:
   ```
   P' = P(1+i)^t
   ```
@@ -24,6 +24,27 @@
   $121.55 ≈ 100(1+0.05)^4
   ```
 
+## Investment banking
+
+investment time | interest rate
+--------------- | -------------
+1 week | 1%
+2 weeks | 2.5%
+3 weeks | 3.5%
+1 month | 4.5%
+2 months | 9.5%
+3 months | 20%
+  
+# National Resources
+National resources are assets produced by state owned companies and sold for a low price or given away for free. Currently the only national resource that is available is oil. In the near future, energy, coal and others will be available as a national resource.
+
+Resource | Weekly limit | Price | available | in reserve
+-------- | ------------ | ----- | --------- | ----------
+Oil | 1,000,000 | $0 | 900m | 1b
+Energy |  | $7.50 | 0 | 0
+Coal |  | $0.05 | 0 | 0 | 0
+
+In the event of a crisis, surge in global demmand or other circumstances reserves will be made available and prioritized to citizens and permanet residents.
 
 # Subsidies
 
