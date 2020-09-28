@@ -1,3 +1,12 @@
+# Content
+- [Banking](https://github.com/Creeper0004/Guide-to-Creeper-Republic/blob/master/Initiatives.md#banking)
+  - [Loans](https://github.com/Creeper0004/Guide-to-Creeper-Republic/blob/master/Initiatives.md#loans)
+  - [Investment banking](https://github.com/Creeper0004/Guide-to-Creeper-Republic/blob/master/Initiatives.md#investment-banking)
+- [National Resources](https://github.com/Creeper0004/Guide-to-Creeper-Republic/blob/master/Initiatives.md#national-resources)
+- [Initiatives](https://github.com/Creeper0004/Guide-to-Creeper-Republic/blob/master/Initiatives.md#initiatives)
+  - [Subsidies](https://github.com/Creeper0004/Guide-to-Creeper-Republic/blob/master/Initiatives.md#subsidies)
+  - [Grants](https://github.com/Creeper0004/Guide-to-Creeper-Republic/blob/master/Initiatives.md#grants)
+
 # Banking
 ## Loans
 
@@ -46,7 +55,8 @@ Coal |  | $0.05 | 0 | 0 | 0
 
 In the event of a crisis, surge in global demmand or other circumstances reserves will be made available and prioritized to citizens and permanet residents.
 
-# Subsidies
+# Initiatives
+## Subsidies
 
 ### New Corporation Subsidie
   Rewards:
@@ -59,7 +69,7 @@ In the event of a crisis, surge in global demmand or other circumstances reserve
     - have reincorporated less than a week ago and have no sister companies.
   - Cannot be a sister company.
 
-# Grants
+## Grants
 
 ### Logistics Grant
   Rewards:
