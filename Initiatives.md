@@ -49,7 +49,7 @@ National resources are assets produced by state owned companies and sold for a l
 
 Resource | Weekly limit | Price | available | in reserve
 -------- | ------------ | ----- | --------- | ----------
-Oil | 1,000,000 | $0 | 900m | 1b
+Oil | 1,000,000 | $0 | 1b | 1b
 Energy |  | $7.50 | 0 | 0
 Coal |  | $0.05 | 0 | 0 | 0
 
