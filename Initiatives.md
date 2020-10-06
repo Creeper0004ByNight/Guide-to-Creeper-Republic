@@ -42,7 +42,7 @@ investment time | interest rate
 3 weeks | 3.5%
 1 month | 4.5%
 2 months | 9.5%
-3 months | 20%
+3 months | 15%
   
 # National Resources
 National resources are assets produced by state owned companies and sold for a low price or given away for free. Currently the only national resource that is available is oil. In the near future, energy, coal and others will be available as a national resource.
@@ -67,7 +67,7 @@ In the event of a crisis, surge in global demmand or other circumstances reserve
   - The Corporation must be, either;
     - at most 1 month old, or
     - have reincorporated less than a week ago and have no sister companies.
-  - Cannot be a sister company.
+  - Cannot be an umbrella company.
 
 ## Grants
 
@@ -77,4 +77,4 @@ In the event of a crisis, surge in global demmand or other circumstances reserve
 
   Conditions:
   - Company must have a networth of less than $2,000,000,000.
-  - Cannot be a sister company.
+  - Cannot be an umbrella company.
