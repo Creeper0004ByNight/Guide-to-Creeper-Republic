@@ -6,7 +6,7 @@
   - [Subsidies](https://github.com/Creeper0004ByNight/Guide-to-Creeper-Republic/blob/master/Initiatives.md#subsidies)
   - [Grants](https://github.com/Creeper0004ByNight/Guide-to-Creeper-Republic/blob/master/Initiatives.md#grants)
 
-- [Constitution of Creeper Republic](https://github.com/Creeper0004/Constitution-of-Creeper-Republic/blob/master/Constitution.md#constitution-of-creeper-republic)
+- [Constitution of Creeper Republic](https://github.com/Creeper0004ByNight/Constitution-of-Creeper-Republic/blob/master/Constitution.md#constitution-of-creeper-republic)
   - [Article 1.](https://github.com/Creeper0004ByNight/Guide-to-Creeper-Republic/blob/master/Constitution.md#article-1) - The Emperor
   - [Article 2.](https://github.com/Creeper0004ByNight/Guide-to-Creeper-Republic/blob/master/Constitution.md#article-2) - Rights and Duties of People
   - [Article 3.](https://github.com/Creeper0004ByNight/Guide-to-Creeper-Republic/blob/master/Constitution.md#article-3) - The Diet
