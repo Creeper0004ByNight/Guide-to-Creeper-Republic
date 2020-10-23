@@ -1,11 +1,11 @@
 # Content
-- [Banking](https://github.com/Creeper0004/Guide-to-Creeper-Republic/blob/master/Initiatives.md#banking)
-  - [Loans](https://github.com/Creeper0004/Guide-to-Creeper-Republic/blob/master/Initiatives.md#loans)
-  - [Investment banking](https://github.com/Creeper0004/Guide-to-Creeper-Republic/blob/master/Initiatives.md#investment-banking)
-- [National Resources](https://github.com/Creeper0004/Guide-to-Creeper-Republic/blob/master/Initiatives.md#national-resources)
-- [Initiatives](https://github.com/Creeper0004/Guide-to-Creeper-Republic/blob/master/Initiatives.md#initiatives)
-  - [Subsidies](https://github.com/Creeper0004/Guide-to-Creeper-Republic/blob/master/Initiatives.md#subsidies)
-  - [Grants](https://github.com/Creeper0004/Guide-to-Creeper-Republic/blob/master/Initiatives.md#grants)
+- [Banking](https://github.com/Creeper0004ByNight/Guide-to-Creeper-Republic/blob/master/Initiatives.md#banking)
+  - [Loans](https://github.com/Creeper0004ByNight/Guide-to-Creeper-Republic/blob/master/Initiatives.md#loans)
+  - [Investment banking](https://github.com/Creeper0004ByNight/Guide-to-Creeper-Republic/blob/master/Initiatives.md#investment-banking)
+- [National Resources](https://github.com/Creeper0004ByNight/Guide-to-Creeper-Republic/blob/master/Initiatives.md#national-resources)
+- [Initiatives](https://github.com/Creeper0004ByNight/Guide-to-Creeper-Republic/blob/master/Initiatives.md#initiatives)
+  - [Subsidies](https://github.com/Creeper0004ByNight/Guide-to-Creeper-Republic/blob/master/Initiatives.md#subsidies)
+  - [Grants](https://github.com/Creeper0004ByNight/Guide-to-Creeper-Republic/blob/master/Initiatives.md#grants)
 
 # Banking
 ## Loans
